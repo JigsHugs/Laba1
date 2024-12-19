@@ -1,0 +1,19 @@
+.header {
+    background-color: #e7b305d5;
+}
+.text-container1 {
+    text-align: left;
+}
+.text-container2 {
+    text-align: center;
+}
+.text-container3 {
+    text-align: justify;
+}
+.text-container4 {
+    text-align: right;
+}
+.container {
+    display: grid;
+    max-width: 100px;
+}
